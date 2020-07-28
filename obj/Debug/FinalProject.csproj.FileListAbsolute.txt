@@ -1,0 +1,37 @@
+C:\Users\Jay\source\repos\FinalProject\bin\Debug\Inventory.mdf
+C:\Users\Jay\source\repos\FinalProject\bin\Debug\Inventory_log.ldf
+C:\Users\Jay\source\repos\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Jay\source\repos\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Jay\source\repos\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.Login.resources
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.MDIParent1.resources
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.Create_New_User.resources
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.unit.resources
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.Add_Products.resources
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.Dealer_Information.resources
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.Buying_Info.resources
+C:\Users\Jay\source\repos\FinalProject\obj\Debug\FinalProject.Selling.resources
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\bin\Debug\Inventory.mdf
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\bin\Debug\Inventory_log.ldf
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.Add_Products.resources
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.Buying_Info.resources
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.Create_New_User.resources
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.Dealer_Information.resources
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.MDIParent1.resources
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.Selling.resources
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.unit.resources
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Jay\Desktop\Study Material Sem 2\programming using c#\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
